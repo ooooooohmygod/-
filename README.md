@@ -63,6 +63,8 @@
 抖音直播录制_V1.0.exe
 ffmpeg.exe
 ```
+<img width="662" height="320" alt="ScreenShot_2026-05-06_150219_528" src="https://github.com/user-attachments/assets/58499ada-3720-4603-97c8-e65f8b9db5d9" />
+
 
 注意：`ffmpeg.exe` 不会内置在主程序里，需要手动放到主程序同级目录。
 
