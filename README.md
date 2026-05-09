@@ -1,4 +1,4 @@
-# 抖音直播监控录制：主播开播自动录，不用一直守着直播间 当前版本【v1.0】
+# 抖音直播监控录制：主播开播自动录，不用一直守着直播间 当前版本【v1.1】
 
 有问题及建议可以提issue 我会在这里不断更新 欢迎Star
 
@@ -60,7 +60,7 @@
 请把下面两个文件放在同一个文件夹中：
 
 ```text
-抖音直播录制_V1.0.exe
+抖音直播录制_V1.1.exe
 ffmpeg.exe
 ```
 <img width="662" height="320" alt="ScreenShot_2026-05-06_150219_528" src="https://github.com/user-attachments/assets/58499ada-3720-4603-97c8-e65f8b9db5d9" />
@@ -82,7 +82,7 @@ ffmpeg.exe
 
 ```text
 抖音直播录制/
-  抖音直播录制_V1.0.exe
+  抖音直播录制_V1.1.exe
   ffmpeg.exe
 ```
 
@@ -160,7 +160,7 @@ ffmpeg.exe
 正确示例：
 
 ```text
-抖音直播录制_V1.0.exe
+抖音直播录制_V1.1.exe
 ffmpeg.exe
 ```
 
